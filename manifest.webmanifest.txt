@@ -1,0 +1,1 @@
+{"name":"curriculum-pwa","short_name":"curriculum-pwa","icons":[{"src":"android-chrome-192x192.dae6d420.png","sizes":"192x192","type":"image/png"},{"src":"android-chrome-512x512.1d14bd47.png","sizes":"512x512","type":"image/png"}],"start_url":"./index.html","display":"standalone","background_color":"#FFFFFF","theme_color":"#43CBFF"}
