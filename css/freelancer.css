@@ -9760,7 +9760,7 @@ body {
   cursor: pointer;
   position: relative;
   display: block;
-  max-width: 25rem;
+  max-width: 20rem;
   margin-bottom: 30px;
   border-radius: 0.5rem;
   overflow: hidden;
@@ -9804,6 +9804,11 @@ body {
   line-height: 3rem;
   color: #FFF;
   opacity: 1;
+}
+
+.portfolio-modal .modal-content,
+.portfolio-modal .modal-content a {
+  color: #5d88b4 !important;
 }
 
 ::-webkit-input-placeholder {
